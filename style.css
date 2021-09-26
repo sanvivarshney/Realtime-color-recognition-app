@@ -1,0 +1,59 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color:black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+    background-color: rgb(126, 225, 255);
+    border-color: brown;
+}
+
+body
+{
+    font-family: 'Gluten', cursive;
+}
+
+.copy_right_footer
+{
+    color: rgb(253, 255, 119);
+    background-color: rgb(104, 29, 155);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-size: 15px;
+}
+
+#heading1
+{
+  background-color: rgb(255, 173, 207);
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+}
+
+#Object_Accuracy
+{
+  background-color: plum;
+  border-color: black;
+  color: darkcyan;
+}
